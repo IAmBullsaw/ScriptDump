@@ -4,7 +4,7 @@
 >Good programmers write code that humans can understand.”
 >                                                   – Martin Fowler
 
-### Dump your useful or useless scripts here
+### Dump your useful or useless scripts (written in any language) here
 
 _List of categories_
 
